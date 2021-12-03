@@ -1,6 +1,6 @@
 ﻿using DiscountStoreConsole.Entities;
 
-namespace DiscountStoreConsole
+namespace DiscountStoreConsole.Services
 {
     public interface ICartService
     {

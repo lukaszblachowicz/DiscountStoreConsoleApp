@@ -46,7 +46,7 @@
     <Compile Include="Entities\CartSlot.cs" />
     <Compile Include="Entities\ICartSlot.cs" />
     <Compile Include="Entities\Item.cs" />
-    <Compile Include="ICartService.cs" />
+    <Compile Include="Services\ICartService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CartService.cs" />
